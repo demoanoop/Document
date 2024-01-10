@@ -1,0 +1,20 @@
+Name -  Sonar-Webhook
+URL -	http://172.31.41.52:8080/sonarqube-webhook/
+secret - Test
+Project Name -Test
+Project Key - Test
+quality gate -Test
+Token :sqp_07a59206a42df984a687f980878a16d4604dc741
+
+Jenkins tolls
+Nexus artifact uploader
+Maven Integration
+Docker 1.5
+Docker Pipeline
+Docker build & Pipe line
+Cloud bees
+Amazon EC
+AWS credential
+AWS web server sdk all
+SonarQube Scanner
+Pipeline utility step
